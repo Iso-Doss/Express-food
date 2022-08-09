@@ -23,7 +23,7 @@
     <div class="card-body register-card-body">
       <p class="login-box-msg">Enregistrez un nouveau administrateur</p>
 
-      <form action="#" method="post">
+      <form action="inscription-traitement.php" method="post">
         <div class="input-group mb-3">
           <input type="text" class="form-control" placeholder="Full name">
           <div class="input-group-append">
